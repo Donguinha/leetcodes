@@ -1,2 +1,2 @@
 # leetcodes
-resolvendo leetcodes
+solving leetcode problems

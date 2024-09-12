@@ -1,0 +1,15 @@
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\bin\Debug\net6.0\557.exe
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\bin\Debug\net6.0\557.deps.json
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\bin\Debug\net6.0\557.runtimeconfig.json
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\bin\Debug\net6.0\557.dll
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\bin\Debug\net6.0\557.pdb
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.csproj.AssemblyReference.cache
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.AssemblyInfoInputs.cache
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.AssemblyInfo.cs
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.csproj.CoreCompileInputs.cache
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.dll
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\refint\557.dll
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.pdb
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\557.genruntimeconfig.cache
+C:\Users\GuilhermedeOliveiraR\code\leetcodes\557\obj\Debug\net6.0\ref\557.dll

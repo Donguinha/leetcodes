@@ -5,7 +5,7 @@ int SingleNumber(int[] nums)
 {
     for (int i = 0; i < nums.Length - 1; i++)
     {
-        var hash = nums[i].GetHashCode();
+        var hash = nums[i];
         
         nums.
     }

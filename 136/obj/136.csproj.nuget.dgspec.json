@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\136\\136.csproj": {}
+    "/home/guilherme/RiderProjects/leetcodes/136/136.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\136\\136.csproj": {
+    "/home/guilherme/RiderProjects/leetcodes/136/136.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\136\\136.csproj",
+        "projectUniqueName": "/home/guilherme/RiderProjects/leetcodes/136/136.csproj",
         "projectName": "136",
-        "projectPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\136\\136.csproj",
-        "packagesPath": "C:\\Users\\GuilhermedeOliveiraR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\136\\obj\\",
+        "projectPath": "/home/guilherme/RiderProjects/leetcodes/136/136.csproj",
+        "packagesPath": "/home/guilherme/.nuget/packages/",
+        "outputPath": "/home/guilherme/RiderProjects/leetcodes/136/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GuilhermedeOliveiraR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/guilherme/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

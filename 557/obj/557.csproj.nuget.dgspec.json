@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\557\\557.csproj": {}
+    "/home/guilherme/RiderProjects/leetcodes/557/557.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\557\\557.csproj": {
+    "/home/guilherme/RiderProjects/leetcodes/557/557.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\557\\557.csproj",
+        "projectUniqueName": "/home/guilherme/RiderProjects/leetcodes/557/557.csproj",
         "projectName": "557",
-        "projectPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\557\\557.csproj",
-        "packagesPath": "C:\\Users\\GuilhermedeOliveiraR\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\557\\obj\\",
+        "projectPath": "/home/guilherme/RiderProjects/leetcodes/557/557.csproj",
+        "packagesPath": "/home/guilherme/.nuget/packages/",
+        "outputPath": "/home/guilherme/RiderProjects/leetcodes/557/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\GuilhermedeOliveiraR\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/guilherme/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.110/RuntimeIdentifierGraph.json"
         }
       }
     }

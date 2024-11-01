@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "//NiJ+5wQU8=",
+  "dgSpecHash": "gjfJ7NA5rn0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GuilhermedeOliveiraR\\code\\leetcodes\\557\\557.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/guilherme/RiderProjects/leetcodes/557/557.csproj",
+  "expectedPackageFiles": [
+    "/home/guilherme/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/home/guilherme/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "/home/guilherme/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.35/microsoft.netcore.app.host.linux-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

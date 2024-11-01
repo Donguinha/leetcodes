@@ -1,12 +1,26 @@
-﻿var result = SingleNumber([1, 3, 5, 5, 3]);
+﻿var result = SingleNumber([9, 1, 3, 9, 5, 5, 3]);
 
+Console.WriteLine(result);
 
 int SingleNumber(int[] nums)
 {
-    for (int i = 0; i < nums.Length - 1; i++)
+    var numbers = new List<int>(nums);
+
+    while (numbers.Count > 1)
     {
-        var hash = nums[i];
-        
-        nums.
+        var first = numbers.First();
+
+        numbers.RemoveAt(0);
+
+        if (numbers.Contains(first))
+        {
+            numbers.Remove(first);
+
+            continue;
+        }
+
+        return first;
     }
+
+    return numbers.First();
 }

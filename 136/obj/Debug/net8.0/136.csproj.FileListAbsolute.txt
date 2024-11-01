@@ -1,0 +1,15 @@
+/home/guilherme/RiderProjects/leetcodes/136/bin/Debug/net8.0/136
+/home/guilherme/RiderProjects/leetcodes/136/bin/Debug/net8.0/136.deps.json
+/home/guilherme/RiderProjects/leetcodes/136/bin/Debug/net8.0/136.runtimeconfig.json
+/home/guilherme/RiderProjects/leetcodes/136/bin/Debug/net8.0/136.dll
+/home/guilherme/RiderProjects/leetcodes/136/bin/Debug/net8.0/136.pdb
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.AssemblyInfoInputs.cache
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.AssemblyInfo.cs
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.csproj.CoreCompileInputs.cache
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.sourcelink.json
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.dll
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/refint/136.dll
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.pdb
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/136.genruntimeconfig.cache
+/home/guilherme/RiderProjects/leetcodes/136/obj/Debug/net8.0/ref/136.dll
